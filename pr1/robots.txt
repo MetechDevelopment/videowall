@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://micdropagency.com/sitemap.xml
